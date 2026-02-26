@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="280dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="32dp"
+    android:background="@drawable/dialog_bg"
+    android:elevation="8dp">
+
+    <!-- Big green checkmark icon -->
+    <ImageView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:src="@drawable/circle_check"
+        android:layout_marginBottom="20dp"
+        android:contentDescription="Success"/>
+
+    <!-- Title: "Credentials Received" -->
+    <TextView
+        android:id="@+id/tv_dialog_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/wifi_dialog_title"
+        android:textColor="#1A202C"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="8dp"/>
+
+    <!-- Subtitle: "Connecting to [SSID]..." -->
+    <TextView
+        android:id="@+id/tv_dialog_msg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#4A5568"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:lineSpacingExtra="2dp"/>
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">WIFI Connect</string>
+    <string name="wifi_status_title">WIFI Status</string>
+    <string name="wifi_checking">Checking WIFI connection...</string>
+    <string name="wifi_scan_to_connect">Scan to Connect WIFI</string>
+    <string name="wifi_link">HTTP Link: %s</string>
+    <string name="wifi_connected_devices">Connected Devices: %d</string>
+    <string name="wifi_retry">Retry WIFI Check</string>
+    <string name="wifi_status_connected">WIFI Connected!</string>
+    <string name="wifi_hotspot_active">Hotspot active: %s\nPlease connect other device to assist.</string>
+    <string name="wifi_hotspot_stopped">Hotspot Stopped.</string>
+    <string name="wifi_hotspot_failed">Hotspot Failed: %d</string>
+    <string name="wifi_already_connected">Already connected to Wi-Fi.</string>
+    <string name="wifi_enabling">Enabling Wi-Fi...</string>
+    <string name="wifi_scanning">Scanning for nearby Wi-Fi...</string>
+    <string name="wifi_connecting_to">Connecting to %s...</string>
+    <string name="wifi_suggestion_saved">Saved suggestion for %s. System will connect to it shortly if it\'s in range.</string>
+    <string name="wifi_request_connection">Requested connection to %s</string>
+    <string name="wifi_permission_denied">Permissions denied. Cannot proceed.</string>
+    <string name="wifi_location_required">Please enable Location (GPS) first!</string>
+    <string name="wifi_hotspot_needed">Hotspot requires Android 8.0+</string>
+    <string name="wifi_found_networks">Found %d networks:</string>
+    
+    <!-- Web Page Strings -->
+    <string name="wifi_web_title">Connect Device to Wi-Fi</string>
+    <string name="wifi_web_select_label">Select Network:</string>
+    <string name="wifi_web_select_placeholder">-- Please Select --</string>
+    <string name="wifi_web_manual_label">Or Enter SSID Manually:</string>
+    <string name="wifi_web_ssid_placeholder">Wi-Fi Name</string>
+    <string name="wifi_web_password_label">Password:</string>
+    <string name="wifi_web_password_placeholder">Enter password</string>
+    <string name="wifi_web_connect_btn">Connect</string>
+    <string name="wifi_web_received_title">Information Received!</string>
+    <string name="wifi_web_attempting_msg">Device is attempting to connect to &lt;b&gt;%s&lt;/b&gt;</string>
+    <string name="wifi_web_no_networks">No networks found. Type manually below.</string>
+    <string name="wifi_wait_system_dialog">Please follow the system prompt to complete connection.</string>
+    <string name="wifi_dialog_title">Credentials Received</string>
+    <string name="wifi_dialog_subtitle">Starting Wi-Fi connection to %s</string>
+</resources>

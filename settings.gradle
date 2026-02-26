@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "WIFI"
 include ':app'
+include ':wifi-lib'

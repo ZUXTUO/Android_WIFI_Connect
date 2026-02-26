@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.WifiConnect" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#4299E1</item>
+        <item name="colorPrimaryDark">#3182CE</item>
+        <item name="colorAccent">#4299E1</item>
+    </style>
+</resources>

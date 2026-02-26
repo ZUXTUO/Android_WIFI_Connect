@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">WIFI 连接</string>
+    <string name="wifi_status_title">WIFI 状态</string>
+    <string name="wifi_checking">正在检查 WIFI 连接...</string>
+    <string name="wifi_scan_to_connect">扫码连接 WIFI</string>
+    <string name="wifi_link">网页链接: %s</string>
+    <string name="wifi_connected_devices">已连接设备: %d</string>
+    <string name="wifi_retry">重试 WIFI 检查</string>
+    <string name="wifi_status_connected">WIFI 已连接！</string>
+    <string name="wifi_hotspot_active">热点已启动: %s\n请用其他设备连接以辅助配置。</string>
+    <string name="wifi_hotspot_stopped">热点已停止。</string>
+    <string name="wifi_hotspot_failed">热点启动失败: %d</string>
+    <string name="wifi_already_connected">已连接到 Wi-Fi。</string>
+    <string name="wifi_enabling">正在开启 Wi-Fi...</string>
+    <string name="wifi_scanning">正在扫描附近 Wi-Fi...</string>
+    <string name="wifi_connecting_to">正在连接到 %s...</string>
+    <string name="wifi_suggestion_saved">已保存 %s 的连接建议。如果信号在范围内，系统将很快自动连接。</string>
+    <string name="wifi_request_connection">已请求连接到 %s</string>
+    <string name="wifi_permission_denied">权限被拒绝，无法继续。</string>
+    <string name="wifi_location_required">请先开启定位服务 (GPS)！</string>
+    <string name="wifi_hotspot_needed">热点功能需要 Android 8.0+</string>
+    <string name="wifi_found_networks">找到 %d 个网络:</string>
+    
+    <!-- 网页字符串 -->
+    <string name="wifi_web_title">连接设备到 Wi-Fi</string>
+    <string name="wifi_web_select_label">选择网络：</string>
+    <string name="wifi_web_select_placeholder">-- 请选择 --</string>
+    <string name="wifi_web_manual_label">或手动输入 SSID：</string>
+    <string name="wifi_web_ssid_placeholder">Wi-Fi 名称</string>
+    <string name="wifi_web_password_label">密码：</string>
+    <string name="wifi_web_password_placeholder">请输入密码</string>
+    <string name="wifi_web_connect_btn">连接</string>
+    <string name="wifi_web_received_title">信息已接收！</string>
+    <string name="wifi_web_attempting_msg">设备正在尝试连接到 &lt;b&gt;%s&lt;/b&gt;</string>
+    <string name="wifi_web_no_networks">未找到网络。请在下方手动输入。</string>
+    <string name="wifi_wait_system_dialog">请按照系统弹窗提示完成连接。</string>
+    <string name="wifi_dialog_title">已收到凭据</string>
+    <string name="wifi_dialog_subtitle">正在连接 Wi-Fi：%s</string>
+</resources>
