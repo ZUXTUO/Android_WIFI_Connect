@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="FreeformWindowSize_maximize">最大化</string>
+    <string name="FreeformWindowSize_tablet">平板模式</string>
+    <string name="FreeformWindowSize_phone">手机模式</string>
+    <string name="FreeformWindowOrientation_landscape">横向</string>
+    <string name="FreeformWindowOrientation_portrait">纵向</string>
+</resources>
