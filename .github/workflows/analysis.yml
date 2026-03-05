@@ -47,7 +47,7 @@ jobs:
         run: ls -R ./app/build/outputs/
 
       - name: Upload Reports and APK
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: Analysis-Reports
           path: |
